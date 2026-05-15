@@ -2,7 +2,6 @@
 
 A small full-stack app for **groundwater potential zone (GWPZ)–style preview** inside a user-defined study area in India. You draw a parcel (polygon) or define a circle (center + radius); the backend scores pixels with terrain and vegetation proxies plus placeholder geology layers, then suggests a lat/lon inside your boundary.
 
-**This is decision-support only.** It does not guarantee bore yield, water quality, or legal suitability. Obtain permits, follow CGWA / state rules, and consult qualified hydrogeologists and licensed drillers before drilling.
 
 ## Stack
 
